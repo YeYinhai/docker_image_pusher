@@ -2,3 +2,4 @@ nginx
 vllm/vllm-openai
 vllm/vllm-openai:v0.4.3
 nvidia/cuda:12.4.1-devel-ubuntu22.04
+nvidia/cuda:12.4.1-base-ubuntu22.04
