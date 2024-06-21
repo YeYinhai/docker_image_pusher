@@ -3,3 +3,4 @@ vllm/vllm-openai
 vllm/vllm-openai:v0.4.3
 nvidia/cuda:12.4.1-devel-ubuntu22.04
 nvidia/cuda:12.4.1-base-ubuntu22.04
+cnstark/pytorch:2.0.1-py3.10.11-cuda11.8.0-ubuntu22.04
