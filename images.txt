@@ -5,7 +5,7 @@ nvidia/cuda:12.4.1-devel-ubuntu22.04
 nvidia/cuda:12.4.1-base-ubuntu22.04
 cnstark/pytorch:2.0.1-py3.10.11-cuda11.8.0-ubuntu22.04
 polardbx/polardb-x
-apache/dolphinscheduler-api
-apache/dolphinscheduler-alert-server
-apache/dolphinscheduler-master
-apache/dolphinscheduler-worker
+apache/dolphinscheduler-api:3.2.1
+apache/dolphinscheduler-alert-server:3.2.1
+apache/dolphinscheduler-master:3.2.1
+apache/dolphinscheduler-worker:3.2.1
