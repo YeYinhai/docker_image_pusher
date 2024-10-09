@@ -9,3 +9,6 @@ apache/dolphinscheduler-api:3.2.1
 apache/dolphinscheduler-alert-server:3.2.1
 apache/dolphinscheduler-master:3.2.1
 apache/dolphinscheduler-worker:3.2.1
+mongo:6.0.2
+redis:7.0.0
+bitnami/kafka:3.5.1
