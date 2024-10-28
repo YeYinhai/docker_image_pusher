@@ -24,4 +24,5 @@
 # openim/openim-web-front:release-v3.8.1
 # openim/openim-admin-front:release-v1.8.2
 
-holtwick/briefing
+# holtwick/briefing
+livekit/livekit-server
