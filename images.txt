@@ -25,4 +25,5 @@
 # openim/openim-admin-front:release-v1.8.2
 
 # holtwick/briefing
-livekit/livekit-server
+# livekit/livekit-server
+6053537/portainer-ce
