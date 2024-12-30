@@ -28,4 +28,4 @@
 # livekit/livekit-server
 # 6053537/portainer-ce
 
-hxsoong/kylin
+hxsoong/kylin:v10-sp3
