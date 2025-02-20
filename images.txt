@@ -34,4 +34,4 @@ caddy:2-alpine
 
 valkey/valkey:8-alpine
 
-searxng:latest
+searxng/searxng:latest
