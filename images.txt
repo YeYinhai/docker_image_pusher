@@ -28,4 +28,10 @@
 # livekit/livekit-server
 # 6053537/portainer-ce
 
-houxinghui/kylinv10-base:v0.1
+# houxinghui/kylinv10-base:v0.1
+
+caddy:2-alpine
+
+valkey/valkey:8-alpine
+
+searxng:latest
