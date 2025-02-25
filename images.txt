@@ -30,8 +30,14 @@
 
 # houxinghui/kylinv10-base:v0.1
 
-caddy:2-alpine
+# 搜索
+# caddy:2-alpine
+# valkey/valkey:8-alpine
+# searxng/searxng:latest
 
-valkey/valkey:8-alpine
+# firecrawl爬虫
+node:18-slim
+node:22-slim
 
-searxng/searxng:latest
+
+
