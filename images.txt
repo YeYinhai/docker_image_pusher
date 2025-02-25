@@ -38,6 +38,7 @@
 # firecrawl爬虫
 node:18-slim
 node:22-slim
-
+rust:1-slim
+golang:1.24
 
 
