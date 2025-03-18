@@ -42,6 +42,8 @@ rust:1-slim
 golang:1.24
 
 # dinky-docker
-dinkydocker/dinky-standalone-server:1.2.2-flink1.17
-flink:1.17-scala_2.12-java8
+# dinkydocker/dinky-standalone-server:1.2.2-flink1.17
+# flink:1.17-scala_2.12-java8
 
+dinkydocker/dinky-standalone-server:1.2.2-flink1.16
+flink:1.16-scala_2.12-java8
