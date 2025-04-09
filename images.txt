@@ -36,10 +36,10 @@
 # searxng/searxng:latest
 
 # firecrawl爬虫
-node:18-slim
-node:22-slim
-rust:1-slim
-golang:1.24
+# node:18-slim
+# node:22-slim
+# rust:1-slim
+# golang:1.24
 
 # dinky-docker
 # dinkydocker/dinky-standalone-server:1.2.2-flink1.17
@@ -57,5 +57,8 @@ golang:1.24
 # dinkydocker/dinky-standalone-server:1.2.3-flink1.17
 # flink:1.17-scala_2.12-java8
 
-flink:1.16-scala_2.12-java11
-flink:1.17-scala_2.12-java11
+# flink:1.16-scala_2.12-java11
+# flink:1.17-scala_2.12-java11
+
+mysql:5.7.42
+mysql:8.0.32
