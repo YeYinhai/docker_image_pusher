@@ -60,5 +60,7 @@
 # flink:1.16-scala_2.12-java11
 # flink:1.17-scala_2.12-java11
 
-mysql:5.7.42
-mysql:8.0.32
+# mysql:5.7.42
+# mysql:8.0.32
+
+arm64v8/mysql:5.7.42
