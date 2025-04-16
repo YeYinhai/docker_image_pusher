@@ -62,5 +62,5 @@
 
 # mysql:5.7.42
 # mysql:8.0.32
-
-arm64v8/mysql:5.7.42
+# 麒麟
+mysql/mysql-server:5.7.42
