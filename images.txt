@@ -63,4 +63,5 @@
 # mysql:5.7.42
 # mysql:8.0.32
 # 麒麟
-mysql/mysql-server:5.7.42
+mysql/mysql-server:8.0.32
+
