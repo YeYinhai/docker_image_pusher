@@ -63,5 +63,7 @@
 # mysql:5.7.42
 # mysql:8.0.32
 # 麒麟
-mysql/mysql-server:8.0.32
-
+# mysql/mysql-server:8.0.32
+# doris
+apache/doris:fe-2.1.9
+apache/doris:be-2.1.9
