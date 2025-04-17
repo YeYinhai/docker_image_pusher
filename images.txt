@@ -65,5 +65,5 @@
 # 麒麟
 # mysql/mysql-server:8.0.32
 # doris 麒麟
-apache/doris:fe-2.1.9 --platform=arm64
-apache/doris:be-2.1.9 --platform=arm64
+apache/doris:fe-2.1.9 --platform linux/arm64
+apache/doris:be-2.1.9 --platform linux/arm64
