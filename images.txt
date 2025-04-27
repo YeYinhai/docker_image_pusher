@@ -34,8 +34,7 @@
 # caddy:2-alpine
 # valkey/valkey:8-alpine
 # searxng/searxng:latest
-# polardb
-polardbx/polardb-x
+
 
 # firecrawl爬虫
 # node:18-slim
@@ -67,5 +66,8 @@ polardbx/polardb-x
 # 麒麟
 # mysql/mysql-server:8.0.32
 # doris 麒麟
-apache/doris:fe-2.1.9 --platform linux/arm64
-apache/doris:be-2.1.9 --platform linux/arm64
+# apache/doris:fe-2.1.9 --platform linux/arm64
+# apache/doris:be-2.1.9 --platform linux/arm64
+
+# polardb
+polardbx/polardb-x
