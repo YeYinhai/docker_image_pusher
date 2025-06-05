@@ -70,4 +70,6 @@
 # apache/doris:be-2.1.9 --platform linux/arm64
 
 # polardb
-polardbx/polardb-x
+# polardbx/polardb-x
+# frp
+zydou/frp
