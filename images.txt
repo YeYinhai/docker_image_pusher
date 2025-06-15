@@ -72,4 +72,6 @@
 # polardb
 # polardbx/polardb-x
 # frp
-zydou/frp
+# zydou/frp
+
+alpine:3.8
