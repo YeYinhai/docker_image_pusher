@@ -79,5 +79,8 @@
 # sulinggg/openwrt
 # dav15/tradingagents
 
-rediscommander/redis-commander:latest
-mongo-express:latest
+# rediscommander/redis-commander:latest
+# mongo-express:latest
+
+jitsi/jitsi-meet
+jitsi/jitsi-videobridge
