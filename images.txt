@@ -82,5 +82,4 @@
 # rediscommander/redis-commander:latest
 # mongo-express:latest
 
-jitsi/jitsi-meet
-jitsi/jitsi-videobridge
+tradingagents-cn:latest
