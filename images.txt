@@ -82,4 +82,4 @@
 # rediscommander/redis-commander:latest
 # mongo-express:latest
 
-tradingagents-cn:latest
+ghcr.io/astral-sh/uv:0.7.20-python3.10-bookworm
