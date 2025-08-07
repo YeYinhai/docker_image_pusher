@@ -84,4 +84,6 @@
 
 # ghcr.io/astral-sh/uv:0.7.20-python3.10-bookworm
 
-dinkydocker/dinky-standalone-server:1.2.3-flink1.17 --platform linux/arm64
+# dinkydocker/dinky-standalone-server:1.2.3-flink1.17 --platform linux/arm64
+
+docker.getcollate.io/openmetadata/db:1.8.10
