@@ -94,4 +94,4 @@
 # docker.getcollate.io/openmetadata/postgresql:1.8.10
 # openjdk:11-jre-slim
 # openjdk:11-jdk
-b3log/siyuan:latest linux/arm/v8
+b3log/siyuan:latest --platform linux/arm64
