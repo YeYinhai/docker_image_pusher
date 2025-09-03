@@ -95,4 +95,6 @@
 # openjdk:11-jre-slim
 # openjdk:11-jdk
 
---platform=linux/arm64/v8 b3log/siyuan:v3.2.1
+# --platform=linux/arm64/v8 b3log/siyuan:v3.2.1
+
+easysoft/zentao
