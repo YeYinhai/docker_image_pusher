@@ -97,4 +97,5 @@
 
 # --platform=linux/arm64/v8 b3log/siyuan:v3.2.1
 
-easysoft/zentao
+# easysoft/zentao
+postgres:15-postgis
