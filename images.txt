@@ -98,4 +98,6 @@
 # --platform=linux/arm64/v8 b3log/siyuan:v3.2.1
 
 # easysoft/zentao
-postgis/postgis:16-3.5
+# postgis/postgis:16-3.5
+
+eclipse-temurin:17-jre
