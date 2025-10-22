@@ -102,5 +102,5 @@
 
 # eclipse-temurin:17-jre
 
---platform=linux/arm64 bitnami/postgresql:15.10.0
---platform=linux/arm64 bitnami/zookeeper:3.8.1
+bitnami/postgresql:15.10.0 --platform=linux/arm64 
+bitnami/zookeeper:3.8.1 --platform=linux/arm64 
