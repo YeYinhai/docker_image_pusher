@@ -66,8 +66,8 @@
 # 麒麟
 # mysql/mysql-server:8.0.32
 # doris 麒麟
-# apache/doris:fe-2.1.9 --platform linux/arm64
-# apache/doris:be-2.1.9 --platform linux/arm64
+# apache/doris:fe-2.1.9
+# apache/doris:be-2.1.9
 
 # polardb
 # polardbx/polardb-x
@@ -84,7 +84,7 @@
 
 # ghcr.io/astral-sh/uv:0.7.20-python3.10-bookworm
 
-# dinkydocker/dinky-standalone-server:1.2.3-flink1.17 --platform linux/arm64
+# dinkydocker/dinky-standalone-server:1.2.3-flink1.17
 
 # docker.getcollate.io/openmetadata/db:1.8.10
 # docker.elastic.co/elasticsearch/elasticsearch:8.11.4
@@ -102,8 +102,9 @@
 
 # eclipse-temurin:17-jre
 
-# bitnami/postgresql:15.10.0 --platform=linux/arm64 
-# bitnami/zookeeper:3.8.1 --platform=linux/arm64 
+# --platform=linux/arm64 bitnami/postgresql:15.10.0
+# --platform=linux/arm64 bitnami/zookeeper:3.8.1
 
-# ubuntu:20.04
---platform=linux/arm64/v8 ubuntu:20.04
+
+# ubuntu:20.04   拉取 arm64 写法示例
+# --platform=linux/arm64/v8 ubuntu:20.04  
