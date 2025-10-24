@@ -106,4 +106,4 @@
 # bitnami/zookeeper:3.8.1 --platform=linux/arm64 
 
 # ubuntu:20.04
---platform=linux/arm64 ubuntu:20.04
+--platform=linux/arm64/v8 ubuntu:20.04
