@@ -117,8 +117,11 @@
 # debian:bookworm-slim
 
 
---platform=linux/arm64 jitsi/jicofo:unstable
---platform=linux/arm64 jitsi/jvb:unstable
---platform=linux/arm64 jitsi/prosody:unstable
---platform=linux/arm64 jitsi/web:stable-10431
+# --platform=linux/arm64 jitsi/jicofo:unstable
+# --platform=linux/arm64 jitsi/jvb:unstable
+# --platform=linux/arm64 jitsi/prosody:unstable
+# --platform=linux/arm64 jitsi/web:stable-10431
+
+node:22-alpine
+python:3.10-slim-bookworm
 
