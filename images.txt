@@ -125,7 +125,7 @@
 # node:22-alpine
 # python:3.10-slim-bookworm
 
-hsliup/tradingagents-backend:latest
-hsliup/tradingagents-frontend:latest
+# hsliup/tradingagents-backend:latest
+# hsliup/tradingagents-frontend:latest
 
-freeswitch/freeswitch:latest
+safarov/freeswitch:latest
