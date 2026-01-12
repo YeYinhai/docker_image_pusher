@@ -139,4 +139,5 @@
 
 # ubuntu:22.04
 # eclipse-temurin:17-jdk
---platform=linux/arm64/v8 b3log/siyuan:v3.4.2
+# --platform=linux/arm64/v8 b3log/siyuan:v3.4.2
+--platform=linux/arm64/v8 polardbx/polardb-x
