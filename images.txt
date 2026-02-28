@@ -143,4 +143,4 @@
 # --platform=linux/arm64/v8 polardbx/polardb-x
 # pgvector/pgvector:pg17
 
---platform=linux/arm64/v8 b3log/siyuan:v3.5.2
+--platform=linux/arm64/v8 b3log/siyuan:v3.5.8
