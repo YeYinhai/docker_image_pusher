@@ -147,3 +147,4 @@
 # rustdesk/rustdesk-server
 
 onlyoffice/documentserver
+python:3.12-slim
