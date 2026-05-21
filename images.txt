@@ -148,4 +148,5 @@
 
 # onlyoffice/documentserver
 # python:3.12-slim
-docker:cli
+# docker:cli
+dify-sandbox:0.2.12
