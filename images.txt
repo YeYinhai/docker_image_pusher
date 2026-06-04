@@ -149,4 +149,7 @@
 # onlyoffice/documentserver
 # python:3.12-slim
 # docker:cli
-langgenius/dify-sandbox:0.2.15
+# langgenius/dify-sandbox:0.2.15
+weishaw/sub2api:latest
+postgres:18-alpine
+redis:8-alpine
